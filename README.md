@@ -43,3 +43,7 @@ Se realizó una API que proporciona funcionalidades para gestionar una base de d
 - **Descripción:** Elimina una persona de la base de datos según su ID.
 - **Respuesta Exitosa:**
 ![Delete_person](/imagenes/delete_person.png)
+
+## Deploy
+
+Se realizó el deploy de la API por medio de Render, la misma se puede encontrar [aquí](https://fundamentosapi.onrender.com/docs).
