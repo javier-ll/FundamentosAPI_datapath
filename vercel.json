@@ -1,0 +1,16 @@
+{
+    "functions": {
+        "api/get_people": {
+            "runtime": "vercel-python@0.24.0",
+            "memory": 512
+          },
+          "api/people/{person_id}": {
+            "runtime": "vercel-python@0.24.0",
+            "memory": 512
+          },
+          "api/people": {
+            "runtime": "vercel-python@0.24.0",
+            "memory": 512
+          }
+    }
+}  
